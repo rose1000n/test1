@@ -1,0 +1,176 @@
+
+time step:0.1, total neurons=10, total synapses=31
+
+internal random seed enable!
+repeats=1,each repeat random seed= 2786782907
+
+population information:-------------------------------------------
+-------------------------------------------
+neuron:0
+ActCtr=239 Vth=-30.01mv El=-70mv g=0.1uS Cm=1nF Vreset=-50mv df=0.99005 ef=0.0995016 dVmax=401.903mv
+AMPA df=0.1 Vrev=0mV GABA df=0.980199 Vrev=-70mV
+NMDA dfxt=0.1 dfst=0.1 efst=0.01 Vrev=0mV as=0.6332 mg=1
+ACH df=0.1 Vrev=0mV GCL df=0.1 Vrev=-90mV
+LIF: RfPed=1.9ms SpiDy=0ms
+noise parameters:
+Injection current:mean=0 stddev=0
+Ext AMPA:prob=0,g=0
+Ext GABA:prob=0,g=2.1
+Ext Ach:prob=0,g=0
+Ext GluCl:prob=0,g=0
+Ext NMDA:prob=0,g=0
+-------------------------------------------
+neuron:1
+ActCtr=239 Vth=-30.01mv El=-70mv g=0.1uS Cm=1nF Vreset=-50mv df=0.99005 ef=0.0995016 dVmax=401.903mv
+AMPA df=0.1 Vrev=0mV GABA df=0.980199 Vrev=-70mV
+NMDA dfxt=0.1 dfst=0.1 efst=0.01 Vrev=0mV as=0.6332 mg=1
+ACH df=0.1 Vrev=0mV GCL df=0.1 Vrev=-90mV
+LIF: RfPed=1.9ms SpiDy=0ms
+noise parameters:
+Injection current:mean=0 stddev=0
+Ext AMPA:prob=0,g=0
+Ext GABA:prob=0,g=2.1
+Ext Ach:prob=0,g=0
+Ext GluCl:prob=0,g=0
+Ext NMDA:prob=0,g=0
+-------------------------------------------
+neuron:2
+ActCtr=239 Vth=-30.01mv El=-70mv g=0.1uS Cm=1nF Vreset=-50mv df=0.99005 ef=0.0995016 dVmax=401.903mv
+AMPA df=0.1 Vrev=0mV GABA df=0.980199 Vrev=-70mV
+NMDA dfxt=0.1 dfst=0.1 efst=0.01 Vrev=0mV as=0.6332 mg=1
+ACH df=0.1 Vrev=0mV GCL df=0.1 Vrev=-90mV
+LIF: RfPed=1.9ms SpiDy=0ms
+noise parameters:
+Injection current:mean=0 stddev=0
+Ext AMPA:prob=0,g=0
+Ext GABA:prob=0,g=2.1
+Ext Ach:prob=0,g=0
+Ext GluCl:prob=0,g=0
+Ext NMDA:prob=0,g=0
+-------------------------------------------
+neuron:3
+ActCtr=239 Vth=-30.01mv El=-70mv g=0.1uS Cm=1nF Vreset=-50mv df=0.99005 ef=0.0995016 dVmax=401.903mv
+AMPA df=0.1 Vrev=0mV GABA df=0.980199 Vrev=-70mV
+NMDA dfxt=0.1 dfst=0.1 efst=0.01 Vrev=0mV as=0.6332 mg=1
+ACH df=0.1 Vrev=0mV GCL df=0.1 Vrev=-90mV
+LIF: RfPed=1.9ms SpiDy=0ms
+noise parameters:
+Injection current:mean=0 stddev=0
+Ext AMPA:prob=0,g=0
+Ext GABA:prob=0,g=2.1
+Ext Ach:prob=0,g=0
+Ext GluCl:prob=0,g=0
+Ext NMDA:prob=0,g=0
+-------------------------------------------
+neuron:4
+ActCtr=239 Vth=-30.01mv El=-70mv g=0.1uS Cm=1nF Vreset=-50mv df=0.99005 ef=0.0995016 dVmax=401.903mv
+AMPA df=0.1 Vrev=0mV GABA df=0.980199 Vrev=-70mV
+NMDA dfxt=0.1 dfst=0.1 efst=0.01 Vrev=0mV as=0.6332 mg=1
+ACH df=0.1 Vrev=0mV GCL df=0.1 Vrev=-90mV
+LIF: RfPed=1.9ms SpiDy=0ms
+noise parameters:
+Injection current:mean=0 stddev=0
+Ext AMPA:prob=0,g=0
+Ext GABA:prob=0,g=2.1
+Ext Ach:prob=0,g=0
+Ext GluCl:prob=0,g=0
+Ext NMDA:prob=0,g=0
+-------------------------------------------
+neuron:5
+ActCtr=239 Vth=-30.01mv El=-70mv g=0.1uS Cm=1nF Vreset=-50mv df=0.99005 ef=0.0995016 dVmax=401.903mv
+AMPA df=0.1 Vrev=0mV GABA df=0.980199 Vrev=-70mV
+NMDA dfxt=0.1 dfst=0.1 efst=0.01 Vrev=0mV as=0.6332 mg=1
+ACH df=0.1 Vrev=0mV GCL df=0.1 Vrev=-90mV
+LIF: RfPed=1.9ms SpiDy=0ms
+noise parameters:
+Injection current:mean=0 stddev=0
+Ext AMPA:prob=0,g=0
+Ext GABA:prob=0,g=2.1
+Ext Ach:prob=0,g=0
+Ext GluCl:prob=0,g=0
+Ext NMDA:prob=0,g=0
+-------------------------------------------
+neuron:6
+ActCtr=239 Vth=-30.01mv El=-70mv g=0.1uS Cm=1nF Vreset=-50mv df=0.99005 ef=0.0995016 dVmax=401.903mv
+AMPA df=0.1 Vrev=0mV GABA df=0.980199 Vrev=-70mV
+NMDA dfxt=0.1 dfst=0.1 efst=0.01 Vrev=0mV as=0.6332 mg=1
+ACH df=0.1 Vrev=0mV GCL df=0.1 Vrev=-90mV
+LIF: RfPed=1.9ms SpiDy=0ms
+noise parameters:
+Injection current:mean=0 stddev=0
+Ext AMPA:prob=0,g=0
+Ext GABA:prob=0,g=2.1
+Ext Ach:prob=0,g=0
+Ext GluCl:prob=0,g=0
+Ext NMDA:prob=0,g=0
+-------------------------------------------
+neuron:7
+ActCtr=239 Vth=-30.01mv El=-70mv g=0.1uS Cm=1nF Vreset=-50mv df=0.99005 ef=0.0995016 dVmax=401.903mv
+AMPA df=0.1 Vrev=0mV GABA df=0.980199 Vrev=-70mV
+NMDA dfxt=0.1 dfst=0.1 efst=0.01 Vrev=0mV as=0.6332 mg=1
+ACH df=0.1 Vrev=0mV GCL df=0.1 Vrev=-90mV
+LIF: RfPed=1.9ms SpiDy=0ms
+noise parameters:
+Injection current:mean=0 stddev=0
+Ext AMPA:prob=0,g=0
+Ext GABA:prob=0,g=2.1
+Ext Ach:prob=0,g=0
+Ext GluCl:prob=0,g=0
+Ext NMDA:prob=0,g=0
+-------------------------------------------
+neuron:8
+ActCtr=239 Vth=-30.01mv El=-70mv g=0.1uS Cm=1nF Vreset=-50mv df=0.99005 ef=0.0995016 dVmax=401.903mv
+AMPA df=0.1 Vrev=0mV GABA df=0.980199 Vrev=-70mV
+NMDA dfxt=0.1 dfst=0.1 efst=0.01 Vrev=0mV as=0.6332 mg=1
+ACH df=0.1 Vrev=0mV GCL df=0.1 Vrev=-90mV
+LIF: RfPed=1.9ms SpiDy=0ms
+noise parameters:
+Injection current:mean=0 stddev=0
+Ext AMPA:prob=0,g=0
+Ext GABA:prob=0,g=2.1
+Ext Ach:prob=0,g=0
+Ext GluCl:prob=0,g=0
+Ext NMDA:prob=0,g=0
+-------------------------------------------
+neuron:9
+ActCtr=239 Vth=-30.01mv El=-70mv g=0.1uS Cm=1nF Vreset=-50mv df=0.99005 ef=0.0995016 dVmax=401.903mv
+AMPA df=0.1 Vrev=0mV GABA df=0.980199 Vrev=-70mV
+NMDA dfxt=0.1 dfst=0.1 efst=0.01 Vrev=0mV as=0.6332 mg=1
+ACH df=0.1 Vrev=0mV GCL df=0.1 Vrev=-90mV
+LIF: RfPed=1.9ms SpiDy=0ms
+noise parameters:
+Injection current:mean=0 stddev=0
+Ext AMPA:prob=0,g=0
+Ext GABA:prob=0,g=2.1
+Ext Ach:prob=0,g=0
+Ext GluCl:prob=0,g=0
+Ext NMDA:prob=0,g=0
+
+synapse connection information----------------------------------
+SynGABA1:Num;PreID,PosID,g;PreID,PosID,g...
+SynGABA1:31;7,0,100
+;6,0,100;1,0,100;3,0,100;4,0,100;5,1,100;8,2,100;6,2,100;4,2,100;8,3,100;7,3,100
+;6,3,100;4,3,100;2,3,100;3,4,100;5,4,100;2,5,100;7,5,100;1,5,100;0,5,100;0,6,100
+;8,6,100;2,6,100;3,6,100;0,7,100;5,8,100;1,9,100;8,9,100;7,9,100;3,9,100;4,9,100
+
+
+time event information:-------------------------------------------
+Event Time=0.001, type:CurrentInjec, Target population:9, Receptor:0, Variable1=4, Variable2=0
+Event Time=0.5, Target population:0, Receptor:0, Variable1=0, Variable2=0
+
+output files information:-----------------------------------------
+Output File Name:FiringRateALL.dat, Type:FiringRate
+Population:9, 
+
+FiringRateWinodw=100ms PrintStep=10ms
+1:Time 2:NID=0
+
+Output File Name:SpikeALL.dat, Type:Spike
+Population:0, 
+1, 2, 3, 4, 5, 6, 7, 8, 9, 
+
+Output File Name:MemPot.dat, Type:MemPot
+Population:0, 
+1, 2, 3, 4, 5, 6, 7, 8, 9, 
+1:Time 2:NID=0 3:NID=1 4:NID=2 5:NID=3 6:NID=4 7:NID=5 8:NID=6 9:NID=7 10:NID=8 11:NID=9
+

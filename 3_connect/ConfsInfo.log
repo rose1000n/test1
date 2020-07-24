@@ -1,0 +1,102 @@
+configuration information:----------------------------------------
+population:0
+NeuPopuName:1, N=1 Taum=10 Vth=-30.01 El=-70 g=2.5e-09 Cm=1 Vreset=-50
+Vrsting_ca=0 Alpha_ca=0 Tau_ca=0 Eff_ca=0 STDeP=0 STDeTau=0
+ pv=0.6 tD=300 aF=0.0035 tF=7000 aCap=250 tCap=2 aCar=0.1 tCar=2000
+NeuRepName:GABA, Tau=5 Vrv=-70 FExt=0 MnExtEff=2.1 MnExtCon=1
+
+TarPopuName:7 TarReceptor:GABA, Connectivity=1 MeanEff=10 weight=10
+TarPopuName:8 TarReceptor:GABA, Connectivity=1 MeanEff=10 weight=10
+TarPopuName:6 TarReceptor:GABA, Connectivity=1 MeanEff=10 weight=10
+------------------------------------------------------------------
+population:1
+NeuPopuName:2, N=1 Taum=10 Vth=-30.01 El=-70 g=2.5e-09 Cm=1 Vreset=-50
+Vrsting_ca=0 Alpha_ca=0 Tau_ca=0 Eff_ca=0 STDeP=0 STDeTau=0
+ pv=0.6 tD=300 aF=0.0035 tF=7000 aCap=250 tCap=2 aCar=0.1 tCar=2000
+NeuRepName:GABA, Tau=5 Vrv=-70 FExt=0 MnExtEff=2.1 MnExtCon=1
+
+TarPopuName:6 TarReceptor:GABA, Connectivity=1 MeanEff=10 weight=10
+TarPopuName:10 TarReceptor:GABA, Connectivity=1 MeanEff=10 weight=10
+TarPopuName:1 TarReceptor:GABA, Connectivity=1 MeanEff=10 weight=10
+------------------------------------------------------------------
+population:2
+NeuPopuName:3, N=1 Taum=10 Vth=-30.01 El=-70 g=2.5e-09 Cm=1 Vreset=-50
+Vrsting_ca=0 Alpha_ca=0 Tau_ca=0 Eff_ca=0 STDeP=0 STDeTau=0
+ pv=0.6 tD=300 aF=0.0035 tF=7000 aCap=250 tCap=2 aCar=0.1 tCar=2000
+NeuRepName:GABA, Tau=5 Vrv=-70 FExt=0 MnExtEff=2.1 MnExtCon=1
+
+TarPopuName:6 TarReceptor:GABA, Connectivity=1 MeanEff=10 weight=10
+TarPopuName:4 TarReceptor:GABA, Connectivity=1 MeanEff=10 weight=10
+TarPopuName:7 TarReceptor:GABA, Connectivity=1 MeanEff=10 weight=10
+------------------------------------------------------------------
+population:3
+NeuPopuName:4, N=1 Taum=10 Vth=-30.01 El=-70 g=2.5e-09 Cm=1 Vreset=-50
+Vrsting_ca=0 Alpha_ca=0 Tau_ca=0 Eff_ca=0 STDeP=0 STDeTau=0
+ pv=0.6 tD=300 aF=0.0035 tF=7000 aCap=250 tCap=2 aCar=0.1 tCar=2000
+NeuRepName:GABA, Tau=5 Vrv=-70 FExt=0 MnExtEff=2.1 MnExtCon=1
+
+TarPopuName:5 TarReceptor:GABA, Connectivity=1 MeanEff=10 weight=10
+TarPopuName:1 TarReceptor:GABA, Connectivity=1 MeanEff=10 weight=10
+TarPopuName:10 TarReceptor:GABA, Connectivity=1 MeanEff=10 weight=10
+TarPopuName:7 TarReceptor:GABA, Connectivity=1 MeanEff=10 weight=10
+------------------------------------------------------------------
+population:4
+NeuPopuName:5, N=1 Taum=10 Vth=-30.01 El=-70 g=2.5e-09 Cm=1 Vreset=-50
+Vrsting_ca=0 Alpha_ca=0 Tau_ca=0 Eff_ca=0 STDeP=0 STDeTau=0
+ pv=0.6 tD=300 aF=0.0035 tF=7000 aCap=250 tCap=2 aCar=0.1 tCar=2000
+NeuRepName:GABA, Tau=5 Vrv=-70 FExt=0 MnExtEff=2.1 MnExtCon=1
+
+TarPopuName:1 TarReceptor:GABA, Connectivity=1 MeanEff=10 weight=10
+TarPopuName:10 TarReceptor:GABA, Connectivity=1 MeanEff=10 weight=10
+TarPopuName:3 TarReceptor:GABA, Connectivity=1 MeanEff=10 weight=10
+TarPopuName:4 TarReceptor:GABA, Connectivity=1 MeanEff=10 weight=10
+------------------------------------------------------------------
+population:5
+NeuPopuName:6, N=1 Taum=10 Vth=-30.01 El=-70 g=2.5e-09 Cm=1 Vreset=-50
+Vrsting_ca=0 Alpha_ca=0 Tau_ca=0 Eff_ca=0 STDeP=0 STDeTau=0
+ pv=0.6 tD=300 aF=0.0035 tF=7000 aCap=250 tCap=2 aCar=0.1 tCar=2000
+NeuRepName:GABA, Tau=5 Vrv=-70 FExt=0 MnExtEff=2.1 MnExtCon=1
+
+TarPopuName:2 TarReceptor:GABA, Connectivity=1 MeanEff=10 weight=10
+TarPopuName:5 TarReceptor:GABA, Connectivity=1 MeanEff=10 weight=10
+TarPopuName:9 TarReceptor:GABA, Connectivity=1 MeanEff=10 weight=10
+------------------------------------------------------------------
+population:6
+NeuPopuName:7, N=1 Taum=10 Vth=-30.01 El=-70 g=2.5e-09 Cm=1 Vreset=-50
+Vrsting_ca=0 Alpha_ca=0 Tau_ca=0 Eff_ca=0 STDeP=0 STDeTau=0
+ pv=0.6 tD=300 aF=0.0035 tF=7000 aCap=250 tCap=2 aCar=0.1 tCar=2000
+NeuRepName:GABA, Tau=5 Vrv=-70 FExt=0 MnExtEff=2.1 MnExtCon=1
+
+TarPopuName:4 TarReceptor:GABA, Connectivity=1 MeanEff=10 weight=10
+TarPopuName:3 TarReceptor:GABA, Connectivity=1 MeanEff=10 weight=10
+TarPopuName:1 TarReceptor:GABA, Connectivity=1 MeanEff=10 weight=10
+------------------------------------------------------------------
+population:7
+NeuPopuName:8, N=1 Taum=10 Vth=-30.01 El=-70 g=2.5e-09 Cm=1 Vreset=-50
+Vrsting_ca=0 Alpha_ca=0 Tau_ca=0 Eff_ca=0 STDeP=0 STDeTau=0
+ pv=0.6 tD=300 aF=0.0035 tF=7000 aCap=250 tCap=2 aCar=0.1 tCar=2000
+NeuRepName:GABA, Tau=5 Vrv=-70 FExt=0 MnExtEff=2.1 MnExtCon=1
+
+TarPopuName:6 TarReceptor:GABA, Connectivity=1 MeanEff=10 weight=10
+TarPopuName:1 TarReceptor:GABA, Connectivity=1 MeanEff=10 weight=10
+TarPopuName:10 TarReceptor:GABA, Connectivity=1 MeanEff=10 weight=10
+TarPopuName:4 TarReceptor:GABA, Connectivity=1 MeanEff=10 weight=10
+------------------------------------------------------------------
+population:8
+NeuPopuName:9, N=1 Taum=10 Vth=-30.01 El=-70 g=2.5e-09 Cm=1 Vreset=-50
+Vrsting_ca=0 Alpha_ca=0 Tau_ca=0 Eff_ca=0 STDeP=0 STDeTau=0
+ pv=0.6 tD=300 aF=0.0035 tF=7000 aCap=250 tCap=2 aCar=0.1 tCar=2000
+NeuRepName:GABA, Tau=5 Vrv=-70 FExt=0 MnExtEff=2.1 MnExtCon=1
+
+TarPopuName:3 TarReceptor:GABA, Connectivity=1 MeanEff=10 weight=10
+TarPopuName:10 TarReceptor:GABA, Connectivity=1 MeanEff=10 weight=10
+TarPopuName:7 TarReceptor:GABA, Connectivity=1 MeanEff=10 weight=10
+TarPopuName:4 TarReceptor:GABA, Connectivity=1 MeanEff=10 weight=10
+------------------------------------------------------------------
+population:9
+NeuPopuName:10, N=1 Taum=10 Vth=-30.01 El=-70 g=2.5e-09 Cm=1 Vreset=-50
+Vrsting_ca=0 Alpha_ca=0 Tau_ca=0 Eff_ca=0 STDeP=0 STDeTau=0
+ pv=0.6 tD=300 aF=0.0035 tF=7000 aCap=250 tCap=2 aCar=0.1 tCar=2000
+NeuRepName:GABA, Tau=5 Vrv=-70 FExt=0 MnExtEff=2.1 MnExtCon=1
+
+------------------------------------------------------------------
