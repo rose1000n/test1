@@ -2,7 +2,7 @@ from class_conf_pro import Network
 
 
 #  Generate Network ---------------------------------------
-
+neu=1
 
 
 #  Generate Conf File -------------------------------------
